@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pedilo_0: 111757745631271397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
